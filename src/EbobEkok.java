@@ -19,8 +19,8 @@ public class EbobEkok {
             }
             i++;
         }
-        System.out.println(ebob);
-        System.out.println((number1*number2)/ebob);
+        System.out.println("EBOB: "+ebob);
+        System.out.println("EKOK: "+ (number1*number2)/ebob);
 
     }
 }
