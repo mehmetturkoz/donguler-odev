@@ -36,5 +36,6 @@ public class ArmstrongSayi {
                 }else{
                     System.out.println(number+" sayisi bir armstrong sayi degildir.");
                 }
+
     }
 }
